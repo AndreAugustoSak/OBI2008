@@ -14,7 +14,7 @@ def telefone(w):
         posicao += 1
         t += dicionario.get(l, '')
     return t
-print(telefone('FALE-SBC'))
+print(telefone('PIP-OCA'))
 
 
 
