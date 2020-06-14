@@ -1,5 +1,5 @@
 # OBI2008
-Exercícios da Olimpíada Brasileira de Matamática 2008
+Exercícios das Olimpíadas Brasileira de Matemática
 
 Como corrigir a sua lista:
 
